@@ -15,6 +15,6 @@ input.onchange = () => {
     document.body.style.backgroundColor = 'pink'
   }
   if (value > mysteryNumber) {
-    document.body.style.backgroundColor = 'green'
+    document.body.style.backgroundColor = 'yellow'
   }
 }
